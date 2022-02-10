@@ -1,4 +1,4 @@
-# Prog_Rover :3rd_place_medal: :carro:
+# Prog_Rover :3rd_place_medal: 🚗
 
 ## Sobre o projeto
 Este foi um dos primeiros projetos que fizemos na faculdade. Este projeto tinha 2 objetivos, sendo um deles em fazer um carro (Rover) seguir/andar sob linhas brancas sem se perder ou sair do caminho estipulado. 
